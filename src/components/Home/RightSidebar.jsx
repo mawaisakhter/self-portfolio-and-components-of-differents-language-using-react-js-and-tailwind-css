@@ -12,7 +12,7 @@ const RightSidebar = () => {
                             Hi, I’m Vincy. I help build websites, grow businesses, big and small. If that is what you want, contact me.
                         </div>
                         <div className='mt-6'>
-                            <img src="/src/assets/awaisimage.jpg" className='border rounded-full' alt="Image" />
+                            <img src="awaisimage.jpg" className='border rounded-full' alt="Image" />
                         </div> 
                     </div>
                     <div className='px-2 pb-3'>
