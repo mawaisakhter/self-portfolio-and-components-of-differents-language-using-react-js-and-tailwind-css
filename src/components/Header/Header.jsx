@@ -8,7 +8,7 @@ const Header = () => {
       <nav className="bg-white md:px-10 lg:px-24 font-sans border-gray-300 border-y-2">
         <div className="lg:mx-auto flex my-2 items-center justify-between flex-wrap md:flex-nowrap">
           <div className="flex items-center flex-shrink-0 mx-2 text-black mr-6">
-            <Link to="/"><span className="font-semibold text-xl tracking-tight">Name</span></Link>
+            <Link to="/"><span className="font-semibold text-xl tracking-tight">Awais</span></Link>
           </div>
           <div className="relative mt-2 md:mr-auto lg:mt-0 mx-2">
             <input type="text" placeholder="Search" className="bg-white lg:w-72 text-black rounded-full border-2 border-gray-400 focus:outline-gray-900 focus:border-white px-2 " />
