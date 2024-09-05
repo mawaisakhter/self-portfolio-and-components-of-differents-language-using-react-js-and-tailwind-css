@@ -37,7 +37,7 @@ const Contact = () => {
                 </div>
                 <div className='px-2 pb-3'>
                   <p>I’m currently available for <b>freelance work</b>.</p>
-                  <a className='text-gray-600 font-bold hover:underline hover:duration-300 cursor-pointer' href="http://vincy@phppot.com">vincy@phppot.com</a>
+                  <a className='text-gray-600 font-bold hover:underline hover:duration-300 cursor-pointer' href="#">awais@gmail.com</a>
                 </div>            
             </div>
             <div className='border rounded-lg mt-8 p-3'> 
