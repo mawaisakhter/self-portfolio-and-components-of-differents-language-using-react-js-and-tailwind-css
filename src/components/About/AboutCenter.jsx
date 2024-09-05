@@ -7,8 +7,7 @@ const AboutCenter = () => {
             <h1 className='text-3xl font-medium text-gray-800'>About</h1>
             <h2 className='text-2xl font-medium mt-3'>My Story</h2>
             <p className='mt-4'>I am Awais, a software engineer, the founder of name. My native place is a coastal village in south India. I am born in a humble middle-class family. My father was a school teacher who worked hard to make ends meet.</p>
-{/*             <img src="/src/assets/awaisimage.jpg" className='mt-4 rounded-2xl' alt="image" /> */}
-          <img src="yourimagelike" className='mt-4 rounded-2xl' alt="image" />
+            <img src="awaisimage.jpg" className='mt-4 rounded-2xl' alt="image" />
             <h2 className='text-2xl font-bold mt-8'>Entrepreneurship</h2>
             <p className='my-5'>
                 When I was an infant, my father attempted to become an entrepreneur. He invested all his savings, with the help of an additional loan, and started a tiny multi-utility store. Unfortunately, it didn’t last long.
