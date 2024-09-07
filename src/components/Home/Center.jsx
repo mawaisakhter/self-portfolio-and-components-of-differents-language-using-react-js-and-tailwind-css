@@ -7,8 +7,8 @@ const Center = () => {
 
         <div>
           <h1 className='h1 text-[#2F2F2F] font-bold text-3xl text-left'>Helping you build websites</h1>
-          <p className='mt-5'>Do you want to build a modern, light-weight and responsive website? or wish to upgrade? <a className="text-blue-500 hover:underline" href="#">contact Vincy</a>. You can also order a <b>free review report</b>.</p>
-          <p className='mt-5'>Thank you to the wonderful Phppot community for the millions of views. All source code published in the blog are uncopyrighted. Its free!</p>
+          <p className='mt-5'>Do you want to build a modern, light-weight and responsive website? or wish to upgrade? <a className="text-blue-500 hover:underline" href="#">Awais</a>. You can also order a <b>free review report</b>.</p>
+          <p className='mt-5'>Thank you to the wonderful Awais community for the millions of views. All source code published in the blog are uncopyrighted. Its free!</p>
         </div>
 
         <h2 className='mt-3 font-bold text-xl italic text-[#757575]'>New on Blog</h2>
